@@ -174,6 +174,8 @@ Customize the Gemini AI prompt for different summary styles:
 
 Your Google Sheets should include these columns for optimal organization:
 
+![Reddit Spreadsheet Example](./images/Reddit%20Spreadsheet.png)
+
 - **Title**: Reddit post headline
 - **Content**: Original post content
 - **Summary**: AI-generated summary
